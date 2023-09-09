@@ -1,0 +1,6 @@
+{
+  "pack": {
+    "pack_format": 15,
+    "description": "Changes the max build height in the nether to 320."
+  }
+}
