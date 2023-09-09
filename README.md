@@ -1,6 +1,6 @@
 # Higher Nether Max Build Height Datapack
 
-This is a very simple, [one-file](https://misode.github.io/dimension-type/?share=MfyFz5Mwy6) data pack created with [misode.github.io](https://misode.github.io/).
+This is a very simple, [one-file](https://github.com/anonymous123-code/higher-nether-max-build-height-datapack/blob/main/data/minecraft/dimension_type/the_nether.json) data pack created with [misode.github.io](https://misode.github.io/).
 
 It does two main things:
 
